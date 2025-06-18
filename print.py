@@ -1,3 +1,5 @@
-print("Hello Steve welcome to python classes")
-print("We are going to learn print function in python")
-print("This is a simple print function")
+print("Welcome to the world of Python Programming ")
+print(45)
+print("Hello Python \nThis is a new line")
+print("My favorite number is",6)
+print("Welcome to", end="***")
